@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mgp25/instagram-php": "^7.0",
+        "larapack/dd": "1.*"
+    }
+}
